@@ -1,4 +1,7 @@
 INTRODUÇÃO:
+
+Aplicação WEB, utilizando tecnologias:
+
 1. Linguagem: Python
 2. Framework: Django
 3. Banco de dados: MongoDB
