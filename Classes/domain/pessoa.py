@@ -1,4 +1,4 @@
-from Classes.estadocivil import EstadoCivil
+from Classes.domain.estadocivil import EstadoCivil
 from datetime import date
 
 
